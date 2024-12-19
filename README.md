@@ -1,4 +1,4 @@
-# Recommender System experiments
+# Recommender System Experiments
 
 Recommender system playground
 
